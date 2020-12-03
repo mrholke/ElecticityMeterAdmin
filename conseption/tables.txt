@@ -1,0 +1,22 @@
+T0001_COUNTER
+
+counternr
+counterdescr
+costskwh
+crtdate
+moddate
+crtby
+modby
+
+
+T0002_COUNTER_READING
+
+fk_counter
+counterreading
+crtdate
+moddate
+crtby
+modby
+
+IndexedDB
+mySQL PHP API (BACKEND)
