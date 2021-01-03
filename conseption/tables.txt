@@ -1,22 +1,24 @@
 T0001_COUNTER
 
-counternr
-counterdescr
-costskwh
-crtdate
-moddate
-crtby
-modby
+id
+counter_nr
+counter_descr
+costs_kwh
+crt_date
+mod_date
+crt_by
+mod_by
 
 
 T0002_COUNTER_READING
 
+id
 fk_counter
-counterreading
-crtdate
-moddate
-crtby
-modby
+counter_reading
+crt_date
+mod_date
+crt_by
+mod_by
 
 IndexedDB
 mySQL PHP API (BACKEND)
